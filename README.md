@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* [About the Game](#About the Game)
+* [Instructions](#instructions)
 * [Instructions](#instructions)
 * [Contributing](#contributing)
 
